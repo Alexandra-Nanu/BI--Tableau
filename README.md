@@ -15,7 +15,7 @@ Amid rapid digitalization and the economic fluctuations caused by the COVID-19 p
 - Stability of sectors over time
 
 ## Data Preparation with Tableau Prep
-- Raw data was sourced from Romania’s data.gov.ro, particularly from the Ministry of Public Finance datasets (long, short, IFRS reports).
+- Raw data was sourced from Romania’s [data.gov.ro](https://data.gov.ro/), particularly from the Ministry of Public Finance datasets (long, short, IFRS reports).
 - Data from 4 years (2018–2021) was loaded and unified using `Union`.
 - A firm identification dataset (`3firme_neradiate_cu_sediu_2023-01-07.csv`) was joined using the common CUI field.
 - Null values and irrelevant entries (wrong location/sector) were filtered.

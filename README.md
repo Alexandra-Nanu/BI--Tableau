@@ -25,21 +25,21 @@ Amid rapid digitalization and the economic fluctuations caused by the COVID-19 p
 - Unnecessary columns were removed, and indicator names (e.g., I13 → Net Turnover) were renamed.
 
 ## Final indicators included:
-
-Total Revenue
-Total Expenses
-Gross and Net Profit/Loss
-Number of Employees
-Visualizations with Tableau Desktop
+- Total Revenue
+- Total Expenses
+- Gross and Net Profit/Loss
+- Number of Employees
+  
+## Visualizations with Tableau Desktop
 The contents in Tableau Desktop answer the following questions:
-
-Which sector is more profitable on average?
-How do revenue trends evolve per domain?
-What types of companies exist in each domain (via clusters)?
-Where are companies geographically concentrated?
-Which sector has higher average operational costs?
-How efficiently does each sector turn revenue into profit?
-Technologies Used
-Tableau Prep
-Tableau Desktop
-Public data from data.gov.ro
+- Which sector is more profitable on average?
+- How do revenue trends evolve per domain?
+- What types of companies exist in each domain (via clusters)?
+- Where are companies geographically concentrated?
+- Which sector has higher average operational costs?
+- How efficiently does each sector turn revenue into profit?
+  
+## Technologies Used
+- Tableau Prep
+- Tableau Desktop
+- Public data from [data.gov.ro](https://data.gov.ro/)
